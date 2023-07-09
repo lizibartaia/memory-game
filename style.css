@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(79, 71, 87);
+}
+
+#grid{
+    width: 450px;
+    height: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    color: rgb(228, 42, 42);
+    text-align: center;
+    width: 95%;
+}
